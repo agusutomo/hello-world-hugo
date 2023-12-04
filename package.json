@@ -7,12 +7,9 @@
         "build": "hugo",
         "create": "hugo new",
         "serve": "hugo server",
-        "start": "serve ./public"
     },
+       
     "author": "",
     "license": "ISC",
 
-    "dependencies": {
-        "serve": "^14.2.1"
-    }
 }
