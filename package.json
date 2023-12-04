@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "devDependencies": {
+        "hugo-bin": "^0.115.0"
+    },
     "scripts": {
         "build": "hugo",
         "create": "hugo new",
@@ -11,9 +14,7 @@
     },
     "author": "",
     "license": "ISC",
-    "devDependencies": {
-        "hugo-bin": "^0.115.0"
-    },
+
     "dependencies": {
         "serve": "^14.2.1"
     }
