@@ -7,8 +7,8 @@
         "hugo-bin": "^0.115.0"
     },    
     "scripts": {
-        "build": "",
-        "create": "",
+        "build": "hugo",
+        "create": "hugo new",
         "serve": "hugo server",
         "start": "serve ./public"
     },
